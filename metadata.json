@@ -1,0 +1,6 @@
+{
+  "name": "Smart Interactive Learning Book",
+  "description": "Smart educational learning book with dedicated spaces for Physics 10th (9 units, 260+ board MCQs), Chemistry 10th, and Mathematics 10th, featuring paragraph text-to-speech, interactive vocabulary cards with Urdu translations, conceptual visuals, and interactive quizzes with shuffle and instant feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
